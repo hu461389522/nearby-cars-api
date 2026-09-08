@@ -1,0 +1,12 @@
+# 编译后的文件
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 日志文件
+*.log
